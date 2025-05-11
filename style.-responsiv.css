@@ -1,0 +1,32 @@
+@media (max-width: 1600px) {
+  .bg-container {
+    width: 600px;
+  }
+  .link-container a {
+    gap: 25%;
+  }
+}
+@media (max-width: 1250px) {
+  .bg-container {
+    width: 500px;
+  }
+  .link-container a {
+    gap: 22%;
+  }
+}
+@media (max-width: 632px) {
+  .bg-container {
+    width: 80%;
+  }
+  .link-container a {
+    gap: 50px;
+  }
+}
+@media (max-width: 400px) {
+  .bg-container {
+    width: 80%;
+  }
+  .link-container a {
+    gap: 24px;
+  }
+}
