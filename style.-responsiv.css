@@ -33,6 +33,7 @@
 @media (max-width: 400px) {
   .bg-container {
     width: 80%;
+    height: max-content;
   }
   .link-container a {
     gap: 24px;
